@@ -1,0 +1,28 @@
+﻿Employee_ID,Department,Training_Name,Due_Date,Completion_Date,Workload_Index,Past_Compliance_Score,Risk_Flag
+EMP001,QA,GMP Refresher,15-09-2026,14-09-2026,0.65,0.92,0
+EMP002,Production,Safety Training,20-09-2026,,0.88,0.7,1
+EMP003,R&D,Data Integrity,25-09-2026,28-09-2026,0.75,0.6,1
+EMP004,QA,CAPA Effectiveness,18-09-2026,17-09-2026,0.55,0.95,0
+EMP005,Production,Equipment Handling,22-09-2026,,0.9,0.5,1
+EMP006,R&D,ISO 9001 Awareness,30-09-2026,29-09-2026,0.6,0.85,0
+EMP007,QA,GMP Refresher,05-10-2026,06-10-2026,0.72,0.65,1
+EMP008,Production,Safety Training,10-10-2026,09-10-2026,0.5,0.8,0
+EMP009,R&D,Data Integrity,12-10-2026,,0.95,0.55,1
+EMP010,QA,CAPA Effectiveness,15-10-2026,14-10-2026,0.4,0.9,0
+EMP011,Production,Equipment Handling,18-10-2026,20-10-2026,0.85,0.6,1
+EMP012,R&D,ISO 9001 Awareness,22-10-2026,21-10-2026,0.55,0.75,0
+EMP013,QA,GMP Refresher,25-10-2026,,0.78,0.5,1
+EMP014,Production,Safety Training,28-10-2026,27-10-2026,0.65,0.85,0
+EMP015,R&D,Data Integrity,01-11-2026,02-11-2026,0.7,0.6,1
+EMP016,QA,CAPA Effectiveness,05-11-2026,04-11-2026,0.45,0.88,0
+EMP017,Production,Equipment Handling,08-11-2026,,0.92,0.55,1
+EMP018,R&D,ISO 9001 Awareness,12-11-2026,11-11-2026,0.58,0.82,0
+EMP019,QA,GMP Refresher,15-11-2026,16-11-2026,0.8,0.62,1
+EMP020,Production,Safety Training,18-11-2026,,0.87,0.48,1
+EMP021,R&D,Data Integrity,22-11-2026,21-11-2026,0.52,0.77,0
+EMP022,QA,CAPA Effectiveness,25-11-2026,24-11-2026,0.6,0.89,0
+EMP023,Production,Equipment Handling,28-11-2026,,0.93,0.52,1
+EMP024,R&D,ISO 9001 Awareness,01-12-2026,02-12-2026,0.67,0.7,1
+EMP025,QA,GMP Refresher,05-12-2026,04-12-2026,0.48,0.91,0
+EMP026,Production,Safety Training,08-12-2026,,0.85,0.58,1
+EMP027,R,,,,,,
