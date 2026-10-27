@@ -1,4 +1,2 @@
-# Emp_training_risk_prediction
-Predict which employees are at risk of missing mandatory training deadlines
-Developed a predictive analytics pipeline to identify employees at risk of missing mandatory compliance training deadlines.
-Engineered custom time-based and status features (Days_to_Complete, Training_Pending) and handled categorical variables using one-hot encoding.
+# Employee_training_risk_prediction
+Developed an enterprise-grade machine learning pipeline that integrates Learning Management System (LMS) data with real-time operational workload metrics to predict corporate training compliance risks. By evaluating five distinct classifiers, the project delivers actionable risk probability scores through an interactive interface, allowing HR coordinators to proactively prevent regulatory deadline failures
